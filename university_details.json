@@ -1,0 +1,1174 @@
+{
+  "name": "Harvard University",
+  "location": "Cambridge, Massachusetts",
+  "establishedYear": "1636",
+  "type": "University",
+  "accreditation": "CEPH, NEASC",
+  "ownership": "Private (Not For Profit)",
+  "rating": "8.4/10",
+  "enrollment": "22947",
+  "coursesDetails": [
+    {
+      "name": "Master of Business Administration [M.B.A]",
+      "duration": "2 years",
+      "fees": "INR 66.2 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS7.5|TOEFL109|GRE326|GMAT730|Duolingo130",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Data Science",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Co Op, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Business Administration [M.B.A] Finance",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS7.5|TOEFL109|GRE326|GMAT730|PTE75",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Engineering [M.Eng] Computational Science and Engineering",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Liberal Arts - Software Engineering",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Medicine [M.D]",
+      "duration": "5 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Applied Mathematics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "Co Op, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Applied Computation",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Law [L.L.M]",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL109|IELTS7.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Computer Science",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Electrical Engineering",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Architecture [M.Arch]",
+      "duration": "1 year",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "Co Op, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Engineering [M.Eng] Design Engineering",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Computer Science",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Health Data Science",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Theater, Dance and Media",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Electrical Engineering",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Biomedical Engineering",
+      "duration": "4 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Biostatistics",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Biology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Neuroscience",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Neurobiology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Business Administration",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Materials Science and Mechanical Engineering",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Public Health Research",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL104|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D} Computer Science",
+      "duration": "2 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": "",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Molecular and Cellular Biology",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Environmental Science and Engineering",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Bioengineering",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Doctor of Philosophy [Ph.D] Statistics",
+      "duration": "5 years",
+      "fees": "INR 25 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Data Science",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Information Management Systems",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - English",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Finance",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Religion",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Arts [M.A] Medical Anthropology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S]/Master of Business Administration [M.B.A] Biotechnology - Life Sciences",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus, Dual Degree",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Geriatric Dentistry",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Implant Dentistry",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Oral and Maxillofacial Surgery",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Orthodontics",
+      "duration": "2 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Periodontology",
+      "duration": "3 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Arts [M.A] Regional Studies - Russia, Eastern Europe, and Central Asia",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master in Landscape Architecture",
+      "duration": "1 year",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Landscape Architecture II",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Landscape Architecture- Urban Design",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Design [M.Des] Technology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Mechanical Engineering",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Computational Science and Engineering",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Honours, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Bioethics",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Clinical Service Operations",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Biomedical Informatics",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Medical Science [M.Med.Sc] Immunology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Medical Sciences [M.M.Sc.] Medical Sciences - Global Health Delivery",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Medical Sciences - Medical Education",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Engineering Sciences",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Dramatic Arts",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - International Relations",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Government",
+      "duration": "2 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - History",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Public Policy [M.P.P]",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Public Administration [M.P.A]",
+      "duration": "2 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Public Administration (Mid-Career)",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S]/Master of Business Administration [M.B.A] Biotechnology - Life Sciences",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus, Dual Degree",
+      "language": "English",
+      "eligibility": " IELTS7.5|TOEFL109|PTE75|GMAT730",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Arts [M.A] Middle Eastern Studies",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Arts [M.A] Regional Studies - East Asia",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Divinity [M.Div]",
+      "duration": "3 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Theology [M.Th]",
+      "duration": "1 year",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Public Health [M.P.H] Environmental Health",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Physics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Sociology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Philosophy",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Statistics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Science [B.S] Psychology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT32|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Master of Education [M.Ed]",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS7|TOEFL100|GRE298",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Digital Media Design",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Biotechnology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Management",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Economics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Mathematics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1406",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Astrophysics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Molecular and Cellular Biology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "Co Op",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1406",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Art, Film, and Visual Studies",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "Bengali",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1406",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Neuroscience",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Chemistry",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL80|IELTS6.5|ACT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Music",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Folklore and Mythology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Human Developmental and Regenerative Biology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Anthropology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Earth and Planetary Sciences",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Integrative Biology",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] East Asian Studies",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Comparative Literature",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] English",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Chemistry and Physics",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": "",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] History",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Comparative Study of Religion",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] Women, Gender, and Sexuality",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] History and Literature",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Bachelor of Arts [B.A] History of Art and Architecture",
+      "duration": "4 years",
+      "fees": "INR 49.4 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL80|SAT1460",
+      "deadline": " 01 Jan, 2023"
+    },
+    {
+      "name": "Dental Medical[DMD]",
+      "duration": "4 years",
+      "fees": "INR 59.8 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL90",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Doctor of Medicine[MD]/ Master of Public Health[MPH]",
+      "duration": "3 years",
+      "fees": "INR 15.2 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS6.5|TOEFL90",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Business Administration [M.B.A]",
+      "duration": "2 years",
+      "fees": "INR 66.2 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS7.5|TOEFL109|GRE326|GMAT730|Duolingo130",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Science [M.S] Data Science",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Co Op, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Business Administration [M.B.A] Finance",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " IELTS7.5|TOEFL109|GRE326|GMAT730|PTE75",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Engineering [M.Eng] Computational Science and Engineering",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "On Campus",
+      "language": "English",
+      "eligibility": " TOEFL90|IELTS6.5|GRE292",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - English",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Finance",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Religion",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Dramatic Arts",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - International Relations",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master Liberal Arts - Government",
+      "duration": "2 years",
+      "fees": "INR 18.5 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7|PTE70",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Digital Media Design",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Biotechnology",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    },
+    {
+      "name": "Master of Liberal Arts [M.L.A.] Management",
+      "duration": "2 years",
+      "fees": "INR 50.1 L/Yr",
+      "time": "Full Time",
+      "mode": "Online, On Campus",
+      "language": "English",
+      "eligibility": " TOEFL100|IELTS7",
+      "deadline": " 01 Jun, 2023"
+    }
+  ],
+  "ratings": {
+    "academic": "9.0/10",
+    "faculty": "9.5/10",
+    "infrastructure": "9.5/10",
+    "placement": "9.0/10",
+    "accommodation": "8.5/10",
+    "socialLife": "10.0/10"
+  },
+  "reviews": [
+    "Tamalika Sarwate Harvard University, Cambridge, Massachusetts( Current Student ) TOEFL Score : 90 B.S Environmental Science And Engineering March 23, 2021 9.5/10 \"An environment friendly - Harvard\" My cousins had studied in this college and had completed their master's program. They suggested even I should do mine under graduation from here. So I went online and I had sent my application by post. I had to send an application fee of $75. 9/10 ACADEMIC/FOOD 10/10 FACULTY 9/10 INFRASTRUCTURE 10/10 ACCOMODATION 9/10 PLACEMENT 10/10 EXTRACURRICULAR 0 0",
+    "Atthu Harvard University, Cambridge, Massachusetts( Current Student ) IELTS Score : 7 B.A Mathematics December 16, 2020 7.3/10 \"Study with world's top-notch faculty with brilliant Infrastructure\" Harvard university is no 1 university in the world and I think this reason was enough to encourage me to apply. Mathematics because I love solving sums. 9/10 ACADEMIC/FOOD 9/10 FACULTY 10/10 INFRASTRUCTURE 7/10 ACCOMODATION 9/10 PLACEMENT 0 0"
+  ]
+}
